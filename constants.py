@@ -20,7 +20,7 @@ Here, we provide the features like
     d. <wlc_sub_list_item>Circumference of Circle</wlc_sub_list_item>
 """
 
-GOODBYE_MSG = """<wlc_heading>Thank you for using the calculator</wlc_heading>"""
+GOODBYE_MSG = """<wlc_heading>Thank you for using the calculator!!</wlc_heading>"""
 
 
 WELCOME_MSG = f"""
